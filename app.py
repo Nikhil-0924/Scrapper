@@ -9,8 +9,8 @@ import time
 app = Flask(__name__)
 
 # ✅ Add your actual API keys
-HUNTER_API_KEY = '6940088921bf30fa5a0574fea19bc0c38925e1f1'
-LINKEDIN_COOKIE = 'AQEDAT0ZjI8DluXqAAABliMbboMAAAGWRyfyg1YAb70dKhSH2Z3l0OE3l8EKzAIis7C7Ij6-xjuflMWI42zBaClwz8NxDdWeUfLHzEUY-svTKxwTVF2nOHF1v5Xyb04L884zGOGRlsO9Vw7NpVNLQlPd'
+HUNTER_API_KEY = 'add'
+LINKEDIN_COOKIE = 'add'
 
 @app.route("/")
 def home():
